@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Laukik\\Downloads\\miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\color_pink.png",
+        "source": "C:\\Users\\Laukik\\Downloads\\miwok\\app\\src\\main\\res\\mipmap-xxxhdpi\\color_pink.png"
+    },
+    {
+        "merged": "C:\\Users\\Laukik\\Downloads\\miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Laukik\\Downloads\\miwok\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Laukik\\Downloads\\miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\color_purple.png",
+        "source": "C:\\Users\\Laukik\\Downloads\\miwok\\app\\src\\main\\res\\mipmap-xxxhdpi\\color_purple.png"
+    },
+    {
+        "merged": "C:\\Users\\Laukik\\Downloads\\miwok\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\color_blue.png",
+        "source": "C:\\Users\\Laukik\\Downloads\\miwok\\app\\src\\main\\res\\mipmap-xxxhdpi\\color_blue.png"
+    }
+]
